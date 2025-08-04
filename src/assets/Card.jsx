@@ -4,7 +4,7 @@ function Card() {
   return (
     <div className="card">
       <span className="profile">
-        <img src="dev.png" alt="" />
+        <img src="dev.png" alt="profile pic" />
       </span>
       <div className="Card-info">
         <h2>Abdulai Zesung Uth.</h2>
