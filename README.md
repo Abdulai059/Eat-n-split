@@ -1,12 +1,45 @@
-# React + Vite
+# 🍽️ Eat-N-Split
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Eat-N-Split is a React-based app that helps friends keep track of shared expenses when dining together.  
+Easily add friends, split bills, and track who owes what in a clean and intuitive interface.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 👥 **Add & Manage Friends** – Keep a list of friends you dine with.
+- 💰 **Split Bills** – Enter bill amounts and split evenly or unevenly.
+- 📊 **Track Balances** – See who owes you or who you owe.
+- 🖥️ **Responsive UI** – Works seamlessly across devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React** – Frontend framework
+- 🎨 **CSS** – Styling
+- 🗂️ **useState** – State management
+
+---
+## 📸 Screenshots
+![App Screenshot](public/eat-n-spile.png)
+
+---
+## 🤝 Contributing
+Contributions are welcome!
+If you have ideas for improvements or new features, feel free to fork the repo and submit a pull request.
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Abdulai059/Eat-n-split.git
+
+# Navigate into the project folder
+cd Eat-n-split
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
